@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anchi/Desktop/PROJECTS%20DS/MLProject/mlruns/0/48f8ad16140149e988460cf75af94dea/artifacts
+end_time: 1712919195035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48f8ad16140149e988460cf75af94dea
+run_name: gaudy-ram-360
+run_uuid: 48f8ad16140149e988460cf75af94dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712919189473
+status: 3
+tags: []
+user_id: anchi

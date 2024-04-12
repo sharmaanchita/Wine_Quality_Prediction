@@ -13,3 +13,11 @@ Workflow:
 9. app.py
 
 '''
+
+
+MLFLOW URL
+
+MLFLOW_TRACKING_URI=https://dagshub.com/anchitasharma31454/MLProject.mlflow \
+MLFLOW_TRACKING_USERNAME=anchitasharma31454 \
+MLFLOW_TRACKING_PASSWORD=595676ca338afbc5285066f417cee6c2d1ec8475 \
+python script.py

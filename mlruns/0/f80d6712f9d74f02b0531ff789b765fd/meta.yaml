@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anchi/Desktop/PROJECTS%20DS/MLProject/mlruns/0/f80d6712f9d74f02b0531ff789b765fd/artifacts
+end_time: 1712858663434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80d6712f9d74f02b0531ff789b765fd
+run_name: useful-turtle-290
+run_uuid: f80d6712f9d74f02b0531ff789b765fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712858657675
+status: 3
+tags: []
+user_id: anchi

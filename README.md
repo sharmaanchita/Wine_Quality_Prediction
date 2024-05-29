@@ -1,4 +1,4 @@
-# End-to-End project for Wine quality prediction 
+End-to-end project for Wine quality prediction 
 
 '''
 Workflow:
